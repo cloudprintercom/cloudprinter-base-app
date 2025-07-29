@@ -52,7 +52,6 @@ Before you can use this base app, you need to register your application with Clo
 4. **Configure your `.env.local` file with your OAuth2 credentials:**
    ```env
    # NextAuth.js Configuration
-   NEXTAUTH_URL=http://localhost:3000
    NEXTAUTH_SECRET=your-nextauth-secret-key-here
 
    # CloudPrinter OAuth2 Configuration (from App Center)
